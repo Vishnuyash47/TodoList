@@ -41,10 +41,12 @@ A dynamic and responsive **To-Do List Manager** built using **Java**, **Spring B
 
 TodoList/
 ├── src/
-│ └── main/
-│ ├── java/ # Business logic and controllers
-│ └── webapp/WEB-INF/jsp # JSP view templates
+│   └── main/
+│       ├── java/                 # Business logic and controllers
+│       └── webapp/
+│           └── WEB-INF/
+│               └── jsp/          # JSP view templates
 ├── application.properties
-├── pom.xml
+└── pom.xml
 
 ---
