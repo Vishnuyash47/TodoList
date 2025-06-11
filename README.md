@@ -39,7 +39,8 @@ A dynamic and responsive **To-Do List Manager** built using **Java**, **Spring B
 
 ## 📁 Project Structure
 
-```TodoList/
+```
+TodoList/
 ├── src/
 │   └── main/
 │       ├── java/                 # Business logic and controllers
