@@ -19,16 +19,17 @@ A dynamic and responsive **To-Do List Manager** built using **Java**, **Spring B
 
 | Layer        | Technology                    |
 |--------------|-------------------------------|
-| Backend      | Spring Boot, Spring MVC       |
+| Backend      | Spring Boot, Spring MVC, Java |
 | Frontend     | JSP, JSTL, Bootstrap 5        |
 | Database     | MySQL                         |
 | Build Tool   | Maven                         |
-| Validation   | Hibernate Validator            |
+| Validation   | Hibernate Validator           |
 
 ---
 
 ## 🧠 Learning Objectives
 
+- To create a Web Application using Java
 - Understand Spring MVC flow with JSP
 - Implement server-side form validation
 - Integrate MySQL with Spring JPA
