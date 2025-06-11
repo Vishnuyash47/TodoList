@@ -19,7 +19,7 @@ A dynamic and responsive **To-Do List Manager** built using **Java**, **Spring B
 
 | Layer        | Technology                    |
 |--------------|-------------------------------|
-| Backend      | Spring Boot, Spring MVC, Java |
+| Backend      | Java, Spring Boot, Spring MVC |
 | Frontend     | JSP, JSTL, Bootstrap 5        |
 | Database     | MySQL                         |
 | Build Tool   | Maven                         |
